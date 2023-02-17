@@ -1,3 +1,11 @@
+*.docx
+*.tmp
+
+/*.pdf
+
+**/.ipynb_checkpoints
 Notas/
 Notebooks/.ipynb_checkpoints/
+Notebooks/Datasets/train.csv
+Notebooks/Datasets/energydata_complete.csv
 Tareas/
